@@ -1,5 +1,5 @@
-# CG-Mini-Project
+# 2D DODGE GAME 
 
-<h2> 2D DODGE GAME </h2>
+A mini project using OpenGL framework
 
-A mini project using OpenGL framework. 
+Used GLUT and many other openGL functions to create objects in game and control them using keyboard events.
